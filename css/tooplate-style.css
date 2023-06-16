@@ -44,7 +44,7 @@ body {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
-.overlay-text h2 {
+.overlay-text h3 {
   color: white; /* Adjust the text color */
 }
 .overlay-text p {

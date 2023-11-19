@@ -723,4 +723,7 @@ b, strong {
   .img-fluid{
     border-radius: 10%;
   }
+.bi bi-github{
+   margin left:20px;
+}
 }
